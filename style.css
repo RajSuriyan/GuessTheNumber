@@ -1,0 +1,20 @@
+html {
+    font-size: 1rem;
+  }
+  
+body{
+    
+    background-color: #FDF4F5;
+    
+}
+
+.text{
+  width: 50%;
+}
+
+.jumbotron {
+  background-color:transparent !important; 
+}
+.form-control{
+  width: 100%;
+}
