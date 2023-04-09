@@ -82,6 +82,7 @@ else if(match){
     newElement.appendChild(parent)
 
 }
+    document.getElementById("inputsum").value=""
 }
 
   }, false);
